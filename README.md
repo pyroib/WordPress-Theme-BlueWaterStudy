@@ -1,4 +1,4 @@
-#  bluewaterstudy.com.au Website
+#  bluewaterstudy.com.au WordPress Themes
 
 A wordpress theme for bluewaterstudy.com.au
 
