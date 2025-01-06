@@ -28,9 +28,10 @@ Projoect no longer taking contributions
 
 ## License
 
-Copyright (C) 2018-2019 Ian Blott <git_connect@blott.com.au> - All Rights Reserved
+Copyright (C) 2018-2019 bluewater Study - All Rights Reserved
 
-This project can not be copied and/or distributed without the express permission of Ian Blott
+This theme was created for bluewater when converting their website into WordPress 
+by E-Web Marketing.
 
 Unauthorized copying of this file, via any medium is strictly prohibited 
 
