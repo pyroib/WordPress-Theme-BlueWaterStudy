@@ -1,4 +1,4 @@
-#  bluewaterstudy.com.au WordPress Themes
+#  bluewaterstudy.com.au WordPress Theme
 
 A wordpress theme for bluewaterstudy.com.au
 
@@ -20,7 +20,7 @@ PHP, MySQL
 
 ## Contributing
 
-Projoect no longer taking contributions
+Project no longer taking contributions
 
 ## Authors
 
